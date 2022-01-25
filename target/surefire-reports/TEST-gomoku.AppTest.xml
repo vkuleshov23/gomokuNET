@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="gomoku.AppTest" time="0.058" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="gomoku.AppTest" time="0.044" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/vadim/Labs/game/NETgomokuClient/target/surefire/surefirebooter13509329320585969726.jar /home/vadim/Labs/game/NETgomokuClient/target/surefire 2022-01-25T05-06-05_074-jvmRun1 surefire15739160035089077724tmp surefire_016560652753013776202tmp"/>
+    <property name="sun.java.command" value="/home/vadim/Labs/game/NETgomokuClient/target/surefire/surefirebooter7103383635554302159.jar /home/vadim/Labs/game/NETgomokuClient/target/surefire 2022-01-25T13-40-52_545-jvmRun1 surefire6646841699630096341tmp surefire_09563281823343185359tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/vadim/Labs/game/NETgomokuClient/target/test-classes:/home/vadim/Labs/game/NETgomokuClient/target/classes:/home/vadim/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/vadim/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,12 +32,12 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/vadim/Labs/game/NETgomokuClient/target/surefire/surefirebooter13509329320585969726.jar"/>
+    <property name="surefire.real.class.path" value="/home/vadim/Labs/game/NETgomokuClient/target/surefire/surefirebooter7103383635554302159.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+8-Ubuntu-0ubuntu1.20.04"/>
     <property name="user.name" value="vadim"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="5.4.0-94-generic"/>
+    <property name="os.version" value="5.4.0-96-generic"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
