@@ -1,0 +1,7 @@
+gomoku/view/console/CreateWaitingBreaker.class
+gomoku/client/Client.class
+gomoku/view/console/ConsoleView.class
+gomoku/view/console/ConsoleGame.class
+gomoku/view/ANSI.class
+gomoku/view/console/LeaveWaitingBreaker.class
+gomoku/client/ConsoleGameExe.class
