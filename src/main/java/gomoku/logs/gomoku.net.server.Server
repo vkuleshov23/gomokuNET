@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-01-25T02:06:45.837819Z</date>
-  <millis>1643076405837</millis>
-  <nanos>819000</nanos>
+  <date>2022-01-25T10:32:41.584264Z</date>
+  <millis>1643106761584</millis>
+  <nanos>264000</nanos>
   <sequence>0</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
@@ -15,165 +15,165 @@
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:06:50.730596Z</date>
-  <millis>1643076410730</millis>
-  <nanos>596000</nanos>
+  <date>2022-01-25T10:32:43.150398Z</date>
+  <millis>1643106763150</millis>
+  <nanos>398000</nanos>
   <sequence>1</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>1</thread>
-  <message>Socket[addr=/127.0.0.1,port=39958,localport=1337] is available
+  <message>Socket[addr=/127.0.0.1,port=38066,localport=1337] is available
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:06:50.733839Z</date>
-  <millis>1643076410733</millis>
-  <nanos>839000</nanos>
+  <date>2022-01-25T10:32:43.153363Z</date>
+  <millis>1643106763153</millis>
+  <nanos>363000</nanos>
   <sequence>2</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>13</thread>
-  <message>uugdv join to client base
+  <message>numgx join to client base
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:06:50.755927Z</date>
-  <millis>1643076410755</millis>
-  <nanos>927000</nanos>
+  <date>2022-01-25T10:32:43.176686Z</date>
+  <millis>1643106763176</millis>
+  <nanos>686000</nanos>
   <sequence>3</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>13</thread>
-  <message>uugdv requested his name
+  <message>numgx requested his name
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:06:56.079456Z</date>
-  <millis>1643076416079</millis>
-  <nanos>456000</nanos>
+  <date>2022-01-25T10:33:09.690613Z</date>
+  <millis>1643106789690</millis>
+  <nanos>613000</nanos>
   <sequence>4</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>1</thread>
-  <message>Socket[addr=/127.0.0.1,port=39960,localport=1337] is available
+  <message>Socket[addr=/127.0.0.1,port=38068,localport=1337] is available
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:06:56.081194Z</date>
-  <millis>1643076416081</millis>
-  <nanos>194000</nanos>
+  <date>2022-01-25T10:33:09.692782Z</date>
+  <millis>1643106789692</millis>
+  <nanos>782000</nanos>
   <sequence>5</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>14</thread>
-  <message>zlrkh join to client base
+  <message>rmzuh join to client base
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:06:56.105395Z</date>
-  <millis>1643076416105</millis>
-  <nanos>395000</nanos>
+  <date>2022-01-25T10:33:09.716610Z</date>
+  <millis>1643106789716</millis>
+  <nanos>610000</nanos>
   <sequence>6</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>14</thread>
-  <message>zlrkh requested his name
+  <message>rmzuh requested his name
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:00.599514Z</date>
-  <millis>1643076420599</millis>
-  <nanos>514000</nanos>
+  <date>2022-01-25T10:33:13.944657Z</date>
+  <millis>1643106793944</millis>
+  <nanos>657000</nanos>
   <sequence>7</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>14</thread>
-  <message>zlrkh requested his name
+  <message>rmzuh requested creators list
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:03.149774Z</date>
-  <millis>1643076423149</millis>
-  <nanos>774000</nanos>
+  <date>2022-01-25T10:33:19.259364Z</date>
+  <millis>1643106799259</millis>
+  <nanos>364000</nanos>
   <sequence>8</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>13</thread>
-  <message>uugdv changed name to =&gt; 1
+  <message>numgx changed name to =&gt; 1
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:08.827789Z</date>
-  <millis>1643076428827</millis>
-  <nanos>789000</nanos>
+  <date>2022-01-25T10:33:24.177456Z</date>
+  <millis>1643106804177</millis>
+  <nanos>456000</nanos>
   <sequence>9</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>14</thread>
-  <message>zlrkh requested creators list
+  <message>rmzuh requested creators list
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:12.389789Z</date>
-  <millis>1643076432389</millis>
-  <nanos>789000</nanos>
+  <date>2022-01-25T10:33:29.461668Z</date>
+  <millis>1643106809461</millis>
+  <nanos>668000</nanos>
   <sequence>10</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>14</thread>
-  <message>Socket[addr=/127.0.0.1,port=39960,localport=1337] closed
+  <message>Socket[addr=/127.0.0.1,port=38068,localport=1337] closed
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:12.390905Z</date>
-  <millis>1643076432390</millis>
-  <nanos>905000</nanos>
+  <date>2022-01-25T10:33:29.463564Z</date>
+  <millis>1643106809463</millis>
+  <nanos>564000</nanos>
   <sequence>11</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>14</thread>
-  <message>zlrkh left the server
+  <message>rmzuh left the server
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:13.695363Z</date>
-  <millis>1643076433695</millis>
-  <nanos>363000</nanos>
+  <date>2022-01-25T10:33:31.107738Z</date>
+  <millis>1643106811107</millis>
+  <nanos>738000</nanos>
   <sequence>12</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
   <class>gomoku.logs.Log</class>
   <method>info</method>
   <thread>13</thread>
-  <message>Socket[addr=/127.0.0.1,port=39958,localport=1337] closed
+  <message>Socket[addr=/127.0.0.1,port=38066,localport=1337] closed
 </message>
 </record>
 <record>
-  <date>2022-01-25T02:07:13.696846Z</date>
-  <millis>1643076433696</millis>
-  <nanos>846000</nanos>
+  <date>2022-01-25T10:33:31.109401Z</date>
+  <millis>1643106811109</millis>
+  <nanos>401000</nanos>
   <sequence>13</sequence>
   <logger>gomoku.net.server.Server</logger>
   <level>INFO</level>
@@ -181,6 +181,253 @@
   <method>info</method>
   <thread>13</thread>
   <message>1 left the server
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:47.423587Z</date>
+  <millis>1643106827423</millis>
+  <nanos>587000</nanos>
+  <sequence>14</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Socket[addr=/127.0.0.1,port=38070,localport=1337] is available
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:47.424841Z</date>
+  <millis>1643106827424</millis>
+  <nanos>841000</nanos>
+  <sequence>15</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>hqhzy join to client base
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:47.449133Z</date>
+  <millis>1643106827449</millis>
+  <nanos>133000</nanos>
+  <sequence>16</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>hqhzy requested his name
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:48.251062Z</date>
+  <millis>1643106828251</millis>
+  <nanos>62000</nanos>
+  <sequence>17</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Socket[addr=/127.0.0.1,port=38072,localport=1337] is available
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:48.252484Z</date>
+  <millis>1643106828252</millis>
+  <nanos>484000</nanos>
+  <sequence>18</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>ukqtm join to client base
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:48.276725Z</date>
+  <millis>1643106828276</millis>
+  <nanos>725000</nanos>
+  <sequence>19</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>ukqtm requested his name
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:51.848451Z</date>
+  <millis>1643106831848</millis>
+  <nanos>451000</nanos>
+  <sequence>20</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>ukqtm changed name to =&gt; 1
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:33:58.831151Z</date>
+  <millis>1643106838831</millis>
+  <nanos>151000</nanos>
+  <sequence>21</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>WARNING</level>
+  <class>gomoku.logs.Log</class>
+  <method>warning</method>
+  <thread>13</thread>
+  <message>hqhzy send non-existant command
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:34:06.525428Z</date>
+  <millis>1643106846525</millis>
+  <nanos>428000</nanos>
+  <sequence>22</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>hqhzy changed name to =&gt; 2
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:34:10.586927Z</date>
+  <millis>1643106850586</millis>
+  <nanos>927000</nanos>
+  <sequence>23</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>1 requested creators list
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:34:52.499948Z</date>
+  <millis>1643106892499</millis>
+  <nanos>948000</nanos>
+  <sequence>24</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>Socket[addr=/127.0.0.1,port=38072,localport=1337] closed
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:34:52.501474Z</date>
+  <millis>1643106892501</millis>
+  <nanos>474000</nanos>
+  <sequence>25</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>14</thread>
+  <message>1 left the server
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:34:53.291146Z</date>
+  <millis>1643106893291</millis>
+  <nanos>146000</nanos>
+  <sequence>26</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>Socket[addr=/127.0.0.1,port=38070,localport=1337] closed
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:34:53.292503Z</date>
+  <millis>1643106893292</millis>
+  <nanos>503000</nanos>
+  <sequence>27</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>13</thread>
+  <message>2 left the server
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:41:01.838025Z</date>
+  <millis>1643107261838</millis>
+  <nanos>25000</nanos>
+  <sequence>28</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Socket[addr=/127.0.0.1,port=38380,localport=1337] is available
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:41:01.839666Z</date>
+  <millis>1643107261839</millis>
+  <nanos>666000</nanos>
+  <sequence>29</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>ordxe join to client base
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:41:01.865436Z</date>
+  <millis>1643107261865</millis>
+  <nanos>436000</nanos>
+  <sequence>30</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>ordxe requested his name
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:41:04.494504Z</date>
+  <millis>1643107264494</millis>
+  <nanos>504000</nanos>
+  <sequence>31</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>Socket[addr=/127.0.0.1,port=38380,localport=1337] closed
+</message>
+</record>
+<record>
+  <date>2022-01-25T10:41:04.495869Z</date>
+  <millis>1643107264495</millis>
+  <nanos>869000</nanos>
+  <sequence>32</sequence>
+  <logger>gomoku.net.server.Server</logger>
+  <level>INFO</level>
+  <class>gomoku.logs.Log</class>
+  <method>info</method>
+  <thread>15</thread>
+  <message>ordxe left the server
 </message>
 </record>
 </log>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: gomoku.tests.GomokuTests
 -------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.125 s - in gomoku.tests.GomokuTests
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.06 s - in gomoku.tests.GomokuTests
